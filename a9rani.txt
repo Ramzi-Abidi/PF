@@ -1,0 +1,23 @@
+1- index ( OMAR WENA )
+2- sign in/up/payement/panier ( Samer ) 
+3- cat ( EYA 5 cat ) 
+4- back-end log in: ramzi + wajdi
+
+
+HEADER-FOOTER.HTML hia page fergha men sitna can be used for a new page
+
+
+22/03/2022 by Meleck 
+
+hajet li nra lezemhom yetaamlou: 
+
+config search ( js )
+config join us button ( sign up page not yet made )
+fix icons fel footer ( centerhom)
+description : bestsellers + categories 
+config panier ( panier sur livre : https://codepen.io/aaroniker/pen/pogGgbx // panier en general )
+logo site /!\
+sign up page (config js )
+config subscribe button ( js )
+config payement
+config useful links footer
